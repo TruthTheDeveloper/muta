@@ -1,0 +1,345 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Axiforma-Black.ttf",
+      "sha1": "59cd5ab5ad3ef3f3eab3ceeb28bfff37ca904a3a"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-BlackItalic.ttf",
+      "sha1": "7e73b6d2818cc260bd0524ee4a7e0b521eec1339"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-Bold.ttf",
+      "sha1": "5e1b228414e2eea9b3760e42e41a1e5093dbcee0"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-BoldItalic.ttf",
+      "sha1": "ed9d64dd4e17ec9cfdcc48c594a977c442f60ed2"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-Book.ttf",
+      "sha1": "64e2a576b37d2b8d9345ba740b52d094ec354859"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-BookItalic.ttf",
+      "sha1": "431215a67051a5af4345407c8402f08a5363c7fc"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-ExtraBold.ttf",
+      "sha1": "0e14730178e530a11754d396167f8660506fe6ab"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-ExtraBoldItalic.ttf",
+      "sha1": "11c284ce8a00d380952abb1174ef220883876dfa"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-Heavy.ttf",
+      "sha1": "8a81780c42cfb781fb01f5e501e8806e245c4aa0"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-HeavyItalic.ttf",
+      "sha1": "775f38a5b7a1a4c42aa85fca342860853e7294c1"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-Italic.ttf",
+      "sha1": "d6122021181aa4ea6ac86e18d20e8edf4762d6fb"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-Light.ttf",
+      "sha1": "56fabab987cd9369a99e438c4dd51129baf2ad43"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-LightItalic.ttf",
+      "sha1": "9c3d664550b9569c9b2b9af6fff1c74dbb34caf2"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-Medium.ttf",
+      "sha1": "99f123acaa76e20aaba5c97973533f79e3627366"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-MediumItalic.ttf",
+      "sha1": "74a0807899b0621ae7c8811d6914a68e0a159b8d"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-Regular.ttf",
+      "sha1": "ef9e9d1826b0c9b4f21a4ce7db8fff01b78d5bdc"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-SemiBold.ttf",
+      "sha1": "c7acdf6d925efeca4c64bf0e6d00e539a2554d63"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-SemiBoldItalic.ttf",
+      "sha1": "40f02056a78ad9e9dbe5272cbc70da9e983ad353"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-Thin.ttf",
+      "sha1": "acadf2cba9295fb8332fa72171c7ece33556fae5"
+    },
+    {
+      "path": "src/assets/fonts/Axiforma-ThinItalic.ttf",
+      "sha1": "4fcad7851939d22b2e915c505e68545165ae1f97"
+    },
+    {
+      "path": "src/assets/fonts/Carattere-Regular.ttf",
+      "sha1": "d49b6c4f8fc8bea6b8c375eb7ea21f4534f64a55"
+    },
+    {
+      "path": "src/assets/fonts/demo.html",
+      "sha1": "adbc1e1861d9e4b753773a4f551c03212e730f40"
+    },
+    {
+      "path": "src/assets/fonts/Magica.otf",
+      "sha1": "3f7582f1e82a0ca23a3b9a361e7010c4bb896cce"
+    },
+    {
+      "path": "src/assets/fonts/OFL.txt",
+      "sha1": "f7ec0b8b9cf37a4d2e0c5e8ebeb476470f75f0fb"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Black.eot",
+      "sha1": "a14732aed230585e8e1fd5139159ef3c8ee9bb97"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Black.woff",
+      "sha1": "2892f21dec1f623e7090b301ed289f3ef3c6135f"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Black.woff2",
+      "sha1": "a2e0e565b4b6f0b44c9fad8e07db3d26efb160c8"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-BlackItalic.eot",
+      "sha1": "553db3160fda963010812fc7475e15f4d6016b1f"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-BlackItalic.woff",
+      "sha1": "72683b92c282fd2762f78a090ac6522091f69aa9"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-BlackItalic.woff2",
+      "sha1": "4660273000d7fe5dbcaf7b1e60f1e56f20b3f02c"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Bold.eot",
+      "sha1": "e3d89dfd7071e0d7255eaaf6bd71d2f516c595ab"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Bold.woff",
+      "sha1": "bacce49cb97bca32486d19c1b40c3b86a18b477a"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Bold.woff2",
+      "sha1": "6d55a5c915ef7a197ea9ea6b6e600b1efc032904"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-BoldItalic.eot",
+      "sha1": "d9c01f11254688e99e64226d0495546f084624d8"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-BoldItalic.woff",
+      "sha1": "61c1909bc87cc7578f8002bf06bc6dc556936a6a"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-BoldItalic.woff2",
+      "sha1": "2d7935c6b2272112da11dc7d2c0d6f1d9bd2ad81"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Book.eot",
+      "sha1": "db3aec95eabfa41a82bf2d3b9cbfa2cea3db7ed0"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Book.woff",
+      "sha1": "6d016c13aaa1e3689cb059f0ad22b45e1f9e64a2"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Book.woff2",
+      "sha1": "b67a0933f378dd5c3f871c888d46005cd60f60b2"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-BookItalic.eot",
+      "sha1": "c0d7961d7d384d5653521e46c0f1e630dda17443"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-BookItalic.woff",
+      "sha1": "94f69644964d559ea0e9b36607629d4ab3a0f675"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-BookItalic.woff2",
+      "sha1": "adb039972cf9fe06126cec76bc01502065d37a52"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-ExtraBold.eot",
+      "sha1": "1f82e1c32bf44ed2a4c4eff5d4b070369aacdd24"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-ExtraBold.woff",
+      "sha1": "98be9779d616ec1f5a2b116d67c63ece7c8b4afe"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-ExtraBold.woff2",
+      "sha1": "19ba7a8559e434d23e0e448e8568e00cff3d63f0"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-ExtraBoldItalic.eot",
+      "sha1": "de31b135ac5a23f2a15827e639b728afe33e6f2d"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-ExtraBoldItalic.woff",
+      "sha1": "ac265b2070cd04b68c01741df7e0db9af261c3f5"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-ExtraBoldItalic.woff2",
+      "sha1": "c8442a27752d128ee336e32cb45593dc449c98b3"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Heavy.eot",
+      "sha1": "eda98d0457091eafb2824c02f2affee2db11636d"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Heavy.woff",
+      "sha1": "b6f05d4ded043df6212fe90dd940ad92cda2cdb6"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Heavy.woff2",
+      "sha1": "be7b1837d2edd36d7e027ce414efbcb522af1d2c"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-HeavyItalic.eot",
+      "sha1": "5c3a38f66aa89afc605da3c457556e89378cbc36"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-HeavyItalic.woff",
+      "sha1": "2b26e8fc79622b8a0dc8f20ae08e51b1899ddc4f"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-HeavyItalic.woff2",
+      "sha1": "af0e67bbc51a2f2a7c61f1a1658837cdbb22c308"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Italic.eot",
+      "sha1": "c549b3ec9cc8859870a21eba2db2eb5f54111834"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Italic.woff",
+      "sha1": "c307c8b2a6eb9974396c3302a432f0243db77a2e"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Italic.woff2",
+      "sha1": "9d65cfb43aefba1794c6c72a362591be01a39cde"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Light.eot",
+      "sha1": "eca562138117b6082b7c9b718cdd6bb079115166"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Light.woff",
+      "sha1": "ba700aa2e2c31ba60fa4c81a00e9be70ca43f6f4"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Light.woff2",
+      "sha1": "d30dbfd1c915b0314cf131a951ad9ee312c17cd2"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-LightItalic.eot",
+      "sha1": "620fc6f58b261f434d98a8ceca34252e796418e2"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-LightItalic.woff",
+      "sha1": "e5a8380bacab707ac3561ac863ed46b874e70c60"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-LightItalic.woff2",
+      "sha1": "cca59e65833b81269dbab3a69caba80efe13ef8c"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Medium.eot",
+      "sha1": "3da79e917845900975650b1434d930090a0c4cb2"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Medium.woff",
+      "sha1": "f018d1e942fe2558d59b12e402d25260066611b2"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Medium.woff2",
+      "sha1": "b42e826d826202ca3f8a2bd4f3ed360dfc5fbbeb"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-MediumItalic.eot",
+      "sha1": "565377d150fa11b3cf250528f8ba010c3bd16025"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-MediumItalic.woff",
+      "sha1": "75a7124c97c1cae720b8bf777fe09d44f3dfa28f"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-MediumItalic.woff2",
+      "sha1": "c74f2aa0b7fdd001247876483269ac8e00f447bf"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Regular.eot",
+      "sha1": "8557be63f07020e0a81fe0c87b73b4a9b2fde1d5"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Regular.woff",
+      "sha1": "aefa8b5eaabbcc72eda1291bd472e18ec8733d38"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Regular.woff2",
+      "sha1": "01dd397761686178de96b9f02c8886f9d26dc09e"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-SemiBold.eot",
+      "sha1": "7f3cdf783df5ad83321c3bb69d9f453879a96ab8"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-SemiBold.woff",
+      "sha1": "6619551324c1324d7deba64f60405970b72e5641"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-SemiBold.woff2",
+      "sha1": "6394c1abfeb682b1117114ff341f5974ca29dd93"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-SemiBoldItalic.eot",
+      "sha1": "e57cd71f61918be8d694849c4994bdeb9d446cbb"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-SemiBoldItalic.woff",
+      "sha1": "85dbb52c52174ffe756cd203437607072b3f046c"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-SemiBoldItalic.woff2",
+      "sha1": "a05f25355fe89c9d6ccb043b873071ce1c05b6b8"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Thin.eot",
+      "sha1": "10a845a76c5ef14f9f8fe7b5c9db2befd2218ba0"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Thin.woff",
+      "sha1": "1bf74de41e09e20019100e96f34b94094d1869e2"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-Thin.woff2",
+      "sha1": "9ec765e48550a882bc02fc97067bd57bd847dc39"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-ThinItalic.eot",
+      "sha1": "9906f15876183ad0691f2feb5c3993e5dc2d5a43"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-ThinItalic.woff",
+      "sha1": "40ba0add9bb2042571b382995d2a38522beee5af"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/Axiforma-ThinItalic.woff2",
+      "sha1": "9d262443b31bbc0320c563a6795681ff3ee5d456"
+    },
+    {
+      "path": "src/assets/fonts/WebFont/stylesheet.css",
+      "sha1": "c6186f64b321127ae05331d88bec0df7b70316ca"
+    }
+  ]
+}
