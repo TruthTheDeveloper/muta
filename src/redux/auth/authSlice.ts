@@ -35,8 +35,6 @@ export const login = createAsyncThunk(
   async (payload: any, thunkAPI) => {
     try {
 
-      console.log(payload, 'payload')
-      // const {} = payload
       return await handleRequest(AuthService.login(payload));
     } catch (error: any) {
       return thunkAPI.rejectWithValue(getError(error));
@@ -50,16 +48,11 @@ export const signUp = createAsyncThunk(
   'auth/signUp',
   async (payload: any, thunkAPI) => {
     try {
-
-      console.log(payload, 'payload')
-
       
       // const {} = payload
       return await handleRequest(AuthService.signUp(payload))
     } catch (error: any) {
-      console.log("ERROR REJECTED",error?.message)
       const err = thunkAPI.rejectWithValue(getError(error));
-      console.log("BLOODY ERROR",err)
       return err
     }
   },
@@ -124,14 +117,12 @@ export const authSlice = createSlice({
         state.loading = true;
       })
       .addCase(signUp.fulfilled, (state: any, actions) => {
-        console.log("FULFILLED")
         state.loading = false;
         state.signUpSuccess = true;
         state.user = actions?.payload.data;
         // setAccessToken(actions?.payload.headers.authorization);
       })
       .addCase(signUp.rejected, (state: any, actions) => {
-        console.log("REJECT",actions?.payload)
 
         state.loading = false;
         state.signUpFailure = true;

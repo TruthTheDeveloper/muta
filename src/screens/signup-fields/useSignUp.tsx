@@ -19,7 +19,6 @@ const useSignUp = (setSignUpSucced:React.Dispatch<React.SetStateAction<boolean |
   
       } else if (signUpFailure) {
         // dispatch(seenAuser(false))
-        console.log('failed')
         reset()
         // showToastFail()
   
@@ -41,7 +40,6 @@ const useSignUp = (setSignUpSucced:React.Dispatch<React.SetStateAction<boolean |
   } = useSelector((state: RootState) => state.authReducer);
 
   const _handleSignUp = async () => {
-    console.log('HELLO');
     dispatch(
       signUp({
         firstname,
@@ -60,7 +58,6 @@ const useSignUp = (setSignUpSucced:React.Dispatch<React.SetStateAction<boolean |
     );
   };
 
-  console.log( signUpSuccess);
 
   return {loading, _handleSignUp};
 };

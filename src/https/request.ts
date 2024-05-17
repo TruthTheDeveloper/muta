@@ -24,7 +24,6 @@ export const make_request = async (
 
 
   if (netInfoState.isConnected) {
-    console.log('connected')
     // User is online, proceed with the request
     try {
       // add the token to the headers if it's available

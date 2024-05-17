@@ -10,9 +10,8 @@ const login = async (payload: object) =>{
 
 
 const signUp = async (payload: object) => {
-  console.log('1st got in ');
+
   const response = await make_request('post', apiRoutes.signUp, payload);
-  console.log('2nd fetched ', JSON.stringify(response, null, 2));
   return response
 };
 

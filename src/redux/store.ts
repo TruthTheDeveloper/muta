@@ -41,7 +41,6 @@ export const resetStore = () => {
   Object.keys(rootState).forEach(key => {
     store.dispatch({...resetAction, meta: {key}});
   });
-  console.log('store resetted!');
 };
 
 

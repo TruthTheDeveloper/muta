@@ -17,16 +17,6 @@ const useLogin = () => {
     },
   } = useSelector((state: RootState) => state.authReducer);
 
-  // useEffect(() => {
-  //   console.log('Dog')
-  //   if (signInSuccess) {
-  //     seenAuser(true)
-  //   console.log('Dog')
-
-  //     reset()
-  //   } 
-  // }, [signInSuccess,loading]);
-
 
 
 

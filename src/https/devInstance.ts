@@ -9,14 +9,12 @@ export type ApiResponse<T> = {
   };
 
   const showToast = (data:any, problem:any) => {
-    console.log(data, 'data')
     if(data){
       Toast.show({
         type: 'error',
         text1: data,
       });
     }else if(problem){
-      console.log(problem)
       Toast.show({
         type: 'error',
         text1: problem
